@@ -5,7 +5,7 @@
 
 
 ### Organized in 2 folders
-        --Notes, projects and code - This is the raw notes and code and mini projects that demonstrate ideas learned.
+        --Notes projects and code - This is the raw notes and code and mini projects that demonstrate ideas learned.
         --Blog Source - As I create blogs and organize the raw notes, I will move them to this folder. 
 
 
